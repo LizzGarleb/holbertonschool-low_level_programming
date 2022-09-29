@@ -1,10 +1,7 @@
 #include <stdio.h>
 int main(void)
 	/**
-	 * main - print string 
-	 *
-	 * Description: Write a C program that print a quote follow by a new line. 
-	 *
+	 * main - print string
 	 * Return: Always 0 (Success)
 	 */
 {
