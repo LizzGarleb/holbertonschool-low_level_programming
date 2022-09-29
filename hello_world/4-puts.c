@@ -7,7 +7,7 @@
 #include <stdio.h>
 /**
  * main - prints string
- * return - retusn the printed string and it end the program
+ * return: return the printed string and it end the program
  **/
 int main(void)
 {
