@@ -1,13 +1,10 @@
-/**
- * Write a C program that prints exactly
- * "Programming is like buidling a multilingual puzzle"
- * followed by a new line.
- **/
-
 #include <stdio.h>
 /**
- * main() - prints string
- * Return: return the printed string and it end the program
+ * main - Prints string
+ * 
+ * Description: Write a C program that prints exactly "Proramming is like building a multilingual puzzle", followed by a new line.
+ *
+ * Return: Always 0 (Success)
  **/
 int main(void)
 {
