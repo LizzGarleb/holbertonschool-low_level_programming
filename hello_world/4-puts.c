@@ -5,6 +5,10 @@
  **/
 
 #include <stdio.h>
+/**
+ * main - prints string
+ * return - retusn the printed string and it end the program
+ **/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
