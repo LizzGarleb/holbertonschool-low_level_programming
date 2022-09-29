@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
+/**
  * main - Prints string
  * 
- * Description: Write a C program that prints exactly "Proramming is like building a multilingual puzzle", followed by a new line.
+ * Description: Write a C program that prints a quote follow by new line.
  *
  * Return: Always 0 (Success)
  */
