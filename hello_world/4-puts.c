@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 /**
- * main - prints string
+ * main() - prints string
  * Return: return the printed string and it end the program
  **/
 int main(void)
