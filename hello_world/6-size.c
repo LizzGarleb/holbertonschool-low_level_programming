@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+ * main - print string
+ *
+ * Return: return 0 sucess
+ */
+
 int main(void)
 {
 	int intType;
