@@ -2,7 +2,7 @@
 /**
  * _abs - Computes the absolute value of an interger.
  * @n: this is parameter
- * Return: Return a if ..., otherwise return b
+ * Return: Return a absolute value negative, otherwise return b absolute value positive.
  */
 int _abs(int n)
 {

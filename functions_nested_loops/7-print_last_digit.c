@@ -4,7 +4,13 @@
  * @ : This is a parameter
  * Return: Return the value of the last digit.
  */
-int print_last_digit(int)
+int print_last_digit(int i)
 {
-	return ;
+	int rawr = i % 10;
+
+	if (rawr >= 10)
+	{
+		n = n /10;
+	}
+	return (0);
 }
