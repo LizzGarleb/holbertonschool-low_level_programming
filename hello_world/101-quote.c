@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
 * main - Prints the ending of the quote.
-* Return: Return is void (nothing will return).
+* Return: Return 1 when done.
 *
 */
 
