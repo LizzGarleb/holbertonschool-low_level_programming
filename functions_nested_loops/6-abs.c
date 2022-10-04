@@ -3,7 +3,7 @@
  * _abs - Computes the absolute value of an interger.
  * Return:
  */
-int _abs(int)
+int _abs(int n)
 {
 	int a, b;
 
