@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints a string
- * Return: return 0 if sucessfull
+ * main - Print all the numbers of base 16 in lowercase, followed by a new line.
+ * Return: Return void (no return).
  */
 int main(void)
 {
