@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-	write(_putchar, '\n');
+	_putchar;
 	return (0);
 }
