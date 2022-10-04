@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _isalpha - print a string
- * @c: parameter
+ * _isalpha - Checks for alphabetic characters.
+ * @c: c becomes a character
  *
- * Return: num
+ * Return: Return 0 when done.
  */
 int _isalpha(int c)
 {
