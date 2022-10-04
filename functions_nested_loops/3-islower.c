@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _islower - print a string
- * Return: sucessfull 
+ * Return: sucessfull
+ * c: is the alphabet (parameter)
  */
 int _islower(int c)
 {
