@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - print string
-* Return: Always 0 (Success)
+* main - Print middle of the quote.
+* Return: Return void (no return).
 */
 int main(void)
 {
