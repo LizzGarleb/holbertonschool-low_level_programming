@@ -14,6 +14,7 @@ Basic command for C language
 
 ### Resources:
 [How do you use gcc to generate assembly code Intel syntax?](https://stackoverflow.com/questions/199966/how-do-you-use-gcc-to-generate-assembly-code-in-intel-syntax)
+
 Lizbeth Garcia Lebron (Creator)
 
 Proyects from the week September 26, 2022 - September 30, 2022 
