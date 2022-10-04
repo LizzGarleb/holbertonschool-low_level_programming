@@ -13,3 +13,5 @@ This resources are from the folder hello world:
 Lizbeth Garcia Lebron (Creator)
 
 Proyects from the week September 26, 2022 - September 30, 2022 (Hello World)
+
+Proyects from the week October 3, 2022 - October 5, 2022 (Variables if, else, while / Functions Nested Loops)
