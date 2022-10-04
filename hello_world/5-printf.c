@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - Print middle of the quote.
+* main - Prints "with proper grammar, but the outcome is a piece of art".
 * Return: Return void (no return).
 */
 int main(void)
