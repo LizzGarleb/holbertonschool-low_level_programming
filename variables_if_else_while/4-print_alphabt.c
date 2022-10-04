@@ -2,6 +2,8 @@
 /**
  * main - prints a string
  * Return: return (0) Passed
+ * 
+ * != no es igual / && and
  */
 int main(void)
 {
