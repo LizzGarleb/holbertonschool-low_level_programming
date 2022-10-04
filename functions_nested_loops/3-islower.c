@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * _islower - print a string
- * Return: sucessfull
- * @c -  is the alphabet (parameter)
+ * @c: is tha aphabeth
+ *
+ * Return: zero is suceddful
  */
 int _islower(int c)
 {
