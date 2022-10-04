@@ -4,6 +4,14 @@ This repository was created with educational purpose. The content of the directo
 
 ### Table of Content 
 1. Hello_world = introduction to C language and simple proyects.
+2. Variables if, else, while
+     if: is a condition statement that, if proved true, perform a funcion or displays information.
+     else: is an alternative statement that is executed if the result of a previous test conditions evaluates to false.
+     while: while loop is used to repeat a section of code an unknown number of times until a specific conidition is met.
+     variable: Location where we store data.
+3. Function, nested loops
+    function: is a block of code which only runs when it is called.
+    nested loops: It allows the looping of statements inside another loops.
 
 ### Resources: 
 This resources are from the folder hello world:
