@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print a string
- * Retun: return 0 sucessfull
+ * Return: return 0 sucessfull
  *
  */
 int main(void)
