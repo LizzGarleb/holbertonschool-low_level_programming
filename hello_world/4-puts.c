@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
- * main - Prints string
- *
- * Description: Write a C program that prints a quote follow by new line.
- *
- * Return: Always 0 (Success)
+ * main - Prints "Programming is like building a multilingual puzzle".
+ * Return: Return is void (no return).
  */
 int main(void)
 {
