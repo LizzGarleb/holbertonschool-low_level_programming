@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_alphabet_x10 - Print 10 times the alphabet, in lowercase, followed by a new line.
- * Return: Return 0 when done.
+ * Return: Theres no return.
  */
 void print_alphabet_x10(void)
 {
