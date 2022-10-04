@@ -6,6 +6,7 @@
 int main(void)
 {
 	int rawr;
+
 	for (rawr = 0; rawr <= 9; rawr++)
 	{
 		printf("%d", rawr);
