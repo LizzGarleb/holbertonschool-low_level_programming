@@ -5,5 +5,17 @@
  */
 int _abs(int)
 {
-	int a
+	int a, b;
+
+	a = (n * (-1));
+	b = n;
+
+	if (n < 0)
+	{
+		return (x);
+	}
+	else
+	{
+		return (y);
+	}
 }
