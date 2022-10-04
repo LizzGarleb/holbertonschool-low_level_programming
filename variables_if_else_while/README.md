@@ -1,3 +1,4 @@
+![If, else if and else example](https://miro.medium.com/max/1400/1*K9Zp-l72morK9SFpMj8Vrw.png)
 # Variables, if, else, while
 
 * Task 0 This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
