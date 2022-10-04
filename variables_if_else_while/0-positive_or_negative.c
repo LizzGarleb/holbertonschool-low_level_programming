@@ -4,7 +4,7 @@
 /**
 * main - Assign a random number to the variable n each time it is executed.
 * 	Print whether the number stored in the variable n is positive or negative.
-* Return: Return void (no return).
+* Return: Return 0 when done.
 */
 int main(void)
 {
