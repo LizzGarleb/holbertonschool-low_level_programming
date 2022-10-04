@@ -2,7 +2,7 @@
 /**
  * _islower - print a string
  * Return: sucessfull
- * c: is the alphabet (parameter)
+ * @c -  is the alphabet (parameter)
  */
 int _islower(int c)
 {
