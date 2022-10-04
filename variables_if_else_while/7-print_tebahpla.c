@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - print a string
- * Return: return 0 if successfull
+ * main - Prints the lowercase alphabet in reverse, followed by a new line.
+ * Return: Return void (no return).
  */
 int main(void)
 {
