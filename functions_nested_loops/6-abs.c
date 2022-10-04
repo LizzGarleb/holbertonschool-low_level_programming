@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _abs - Computes the absolute value of an interger.
+ * @n: this is parameter
  * Return: Return a if ..., otherwise return b
  */
 int _abs(int n)
