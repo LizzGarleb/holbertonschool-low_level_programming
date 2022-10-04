@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints a string
- * Return: return (0) Passed
+ * main - Print the alphabet in lowercase, followed by a new line.
+ * Return: Return void (no return).
  * 
  * != no es igual / && and
  */
