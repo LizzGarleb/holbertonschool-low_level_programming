@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - print a string
- * Return: return (0) Passed
+ * main - Prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+ * Return: Return void (no return).
  */
 int main(void)
 {
