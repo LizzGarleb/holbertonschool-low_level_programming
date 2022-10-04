@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main - prints a string
-* Return: return 1 (Pass)
+* main - Prints the ending of the quote.
+* Return: Return is void (nothing will return).
 *
 */
 
