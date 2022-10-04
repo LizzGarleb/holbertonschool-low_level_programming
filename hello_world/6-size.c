@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print string
+ * main - Print the size of various types.
  *
- * Return: return 0 sucess
+ * Return: Return void (no return).
  */
 
 int main(void)
