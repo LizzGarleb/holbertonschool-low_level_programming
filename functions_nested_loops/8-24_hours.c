@@ -9,6 +9,6 @@ void jack_bauer(void)
 	
 	if (a = "00:00"; a >= "23:59"; a++)
 	{
-		_putchar('a')
+		jack_bauer('a')
 	}
 }
