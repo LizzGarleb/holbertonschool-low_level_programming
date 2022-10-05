@@ -7,8 +7,8 @@ void jack_bauer(void)
 {	
 	int a
 	
-	if (a = "00:00"; a >= "23:59"; a++)
+	for (a = "00:00"; a >= "23:59"; a++)
 	{
-		jack_bauer('a')
+		_putchar(a);
 	}
 }
