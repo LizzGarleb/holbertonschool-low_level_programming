@@ -5,8 +5,8 @@
  */
 void jack_bauer(void)
 {	
-	int a;
-	int b;
+	char a;
+	char b;
 
 	for (a = "00"; a >= "23"; a++)
 	{
@@ -16,5 +16,5 @@ void jack_bauer(void)
 	{
 		_putchar(b);
 	}
-	_putchar( a + b);
+	_putchar(a + b);
 }
