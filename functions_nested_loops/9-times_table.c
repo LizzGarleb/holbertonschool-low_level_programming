@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * time_tables - Prints 9 times table, starting with 0.
+ * time_table - Prints 9 times table, starting with 0.
  * Return: 9 times table in block format.
  */
 void times_table(void)
@@ -21,18 +21,18 @@ void times_table(void)
                 _putchar(z1);
                 }
                 
-		if (y != 8)
+                if (y != 8)
                 {
-	 	 _putchar(z2);
-        	 _putchar(',');
-        	 _putchar(' ');
-         	 _putchar(' ');
+                 _putchar(z2);
+                 _putchar(',');
+                _putchar(' ');
+                 _putchar(' ');
                 }
-		else
-		{
-			_putchar(z2);
-		}
-		}
-	_putchar('\n');
+                else
+                {
+                     _putchar(z2);
+                }
+                }
+        _putchar('\n');
         }
 }
