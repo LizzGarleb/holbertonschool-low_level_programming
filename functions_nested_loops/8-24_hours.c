@@ -5,7 +5,7 @@
  */
 void jack_bauer(void)
 {	
-	int a
+	int a;
 	
 	for (a = "00:00"; a >= "23:59"; a++)
 	{
