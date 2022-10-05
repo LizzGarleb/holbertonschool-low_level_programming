@@ -5,10 +5,16 @@
  */
 void jack_bauer(void)
 {	
-	char a;
-	
-	for (a = "00:00"; a >= "23:59"; a++)
+	int a;
+	int b;
+
+	for (a = "00"; a >= "23"; a++)
 	{
 		_putchar(a);
 	}
+	for (b = "01"; b >= "59"; a++)
+	{
+		_putchar(b);
+	}
+	_putchar( a + b);
 }
