@@ -8,5 +8,8 @@
  */
 int add(int a, int b)
 {
+	int a = 0;
+	int b = 2;
+
 	printf(a + b);
 }
