@@ -27,7 +27,7 @@ void times_table(void)
 
 		if (y != 0)
 		{
-			_putchar(',');
+			_putchar(lastdigit);
 		}
 		if (y <= 8)
 		{
