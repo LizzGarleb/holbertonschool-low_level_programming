@@ -6,7 +6,7 @@
  * @b: They are random numbers
  * Return: the result.
  */
-int add(int a, int b)
+int add(int n1, int n2)
 {
-	printf(a + b);
+	printf(n1 + n2);
 }
