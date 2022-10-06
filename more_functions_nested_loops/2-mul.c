@@ -3,7 +3,7 @@
  * mul - multiplies two intergers.
  * @a: a number
  * @b: a number
- * Return: 
+ * Return: Return the result of multiplication.
  */
 int mul(int a, int b)
 {
