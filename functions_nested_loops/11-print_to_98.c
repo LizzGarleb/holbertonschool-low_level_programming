@@ -17,7 +17,7 @@ void print_to_98(int n)
 			}
 			else
 			{
-				pritf("%i, ", n)
+				printf("%i, ", n);
 			}
 			n++;
 		}
