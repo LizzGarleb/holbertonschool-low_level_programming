@@ -21,7 +21,7 @@ void print_diagonal(int n)
 				{
 					_putchar('\\');
 				}
-				else if (b < a)
+				else if (b <= a)
 				{
 					_putchar(' ');
 				}
