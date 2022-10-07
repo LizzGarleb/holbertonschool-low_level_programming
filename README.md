@@ -23,3 +23,5 @@ Lizbeth Garcia Lebron (Creator)
 Proyects from the week September 26, 2022 - September 30, 2022 (Hello World)
 
 Proyects from the week October 3, 2022 - October 5, 2022 (Variables if, else, while / Functions Nested Loops)
+
+Proyects from the week October 6, 2022 - October 7, 2022 
