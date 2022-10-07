@@ -22,4 +22,4 @@
 
 Lizbeth Garcia Lebron (Creator)
 
-Proyects from the week October 6, 2022 - October 7, 2022.
+Proyects from the week October 3, 2022 - October 5, 2022.
