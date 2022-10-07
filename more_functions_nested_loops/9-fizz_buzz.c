@@ -1,22 +1,22 @@
 #include <stdio.h>
 /**
- *
+ * main - The Fizz-Bizz test.
+ * Return: Counting..
  */
-int num
-for (num = 1; num <= 100; num++)
+int main(void)
 {
-	if (num % 5 == 0)
+	int a, b;
+
+	for (a = 1; a <= b; a++)
 	{
-		printf("Fizz");
+		if (a%15 == 0)
+			printf ("FizzBuzz ");
+		else if ((a%3) == 0)
+			printf ("Fizz ");
+		else if ((a%5) == 0)
+			printf ("Buzz ");
+		else
+			printf("%d ", a);
 	}
-	else if (num % 3 == 0)
-	{
-		printf("Buzz");
-	}
-	else if (num % 3 == 0 && num % 5 == 0)
-	{
-		printf("FizzBuzz");
-	}
-	printf("%i\n", num);
-	
+	return (0);
 }
