@@ -12,6 +12,7 @@ This repository was created with educational purpose. The content of the directo
 3. Function, nested loops
     function: is a block of code which only runs when it is called.
     nested loops: It allows the looping of statements inside another loops.
+4. Makefiles = sets a set of rules to determine which part of the program need to be recompile, and issues command to recompile them. Makefiles is a way of automating software building procedure and other complex task with dependencies. 
 
 ### Resources: 
 This resources are from the folder hello world:
