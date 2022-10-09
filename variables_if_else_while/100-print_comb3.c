@@ -6,25 +6,20 @@
 int main(void)
 {
 	int num, num2;
-	for (num =  48; num <= 56; num ++)
+	for (num = '0'; num<= '9'; num++)
 	{
-		for (num2 = 49; num2 <= 57; num2++)
+		for (num2 = num + 1; num2 <= '9';num2++)
 		{
-
-			if (num == 56 && num2 == 57)
+			putchar(num);
+			putchar(num2);
+			if (num == '8' && num2 == '9')
 			{
-				putchar(num);
-				putchar(num2);
-				putchar(' ');
+				continue;
 			}
-			else
-			{
-				putchar(num);
-				putchar(num2);
-				putchar(',');
-			}
+			putchar(',');
+			putchar(' ');
 		}
 	}
-	putchar('\n');
-	return (0);
+  	putchar('\n');
+  	return (0);
 }
