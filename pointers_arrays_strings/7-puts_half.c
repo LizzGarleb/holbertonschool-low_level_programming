@@ -6,7 +6,7 @@
 void puts_half(char *str)
 {
 	int lenght, even, odd;
-	
+
 	lenght = 0;
 
 	while (str[lenght] != '\0')
@@ -19,12 +19,12 @@ void puts_half(char *str)
 		{
 			_putchar(str[even]);
 		}
-	} 
+	}
 	else
 	{
 		for (odd = (lenght - 1) / 2; odd < lenght - 1; odd++)
 		{
-		       _putchar(str[odd + 1]);
+		_putchar(str[odd + 1]);
 		}
 	}
 	_putchar('\n');
