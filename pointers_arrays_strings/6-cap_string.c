@@ -6,28 +6,22 @@
 char *cap_string(char *str)
 {
 	int i, n;
-
-	n = 0;
-
-	char comp[13] = {' ', '\t', '\n', ',', ';', '.', '!', '?', '"', '(', ')', '{', '}'};
-
+	
+	char comp[13]= {' ', '\t', '\n', ',', ';', '.', '!', '?', '"', '(', ')', '{', '}'};
+	
 	for (i = 0 ; str[i] != '\0'; i++)
 	{
-		if (i == 0)
+		if (i == 0 && str[i] >= 'a' && str[i] <= 'z')
 		{
-			if ((str[i] >= 'a' && str[i]<= 'z'))
-			{
-				str[i] = str[i] - 32;
-			}
+				str[i] -= 32;
 		}
-		while (n < 13)
+		for (n = 0; n < 13; n++)
 		{
-			n++;
 			if (str[i] == comp[n])
 			{
-				if ((str[i] >= 'a' && str[i]<= 'z'))
+				if (str[i] >= 'a' && str[i] <= 'z')
                         	{
-                           	     str[i] = str[i] - 32;
+                           	     str[i + 1] -= 32;
                         	}
 			}
 		}
