@@ -13,6 +13,10 @@ This repository was created with educational purpose. The content of the directo
     function: is a block of code which only runs when it is called.
     nested loops: It allows the looping of statements inside another loops.
 4. Makefiles = sets a set of rules to determine which part of the program need to be recompile, and issues command to recompile them. Makefiles is a way of automating software building procedure and other complex task with dependencies. 
+5. Pointers, Arrays & Strings
+     Pointers: is a variable whose value is the address of another variable.
+     Arrays: is a kind of data structure that can store a fixed-size sequential collection of elements of the same type.
+     Strings: are arrays of character terminated by a null character.
 
 ### Resources: 
 This resources are from the folder hello world:
