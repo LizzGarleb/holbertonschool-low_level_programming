@@ -23,3 +23,4 @@ char *leet(char *);
 
 /*c - even more pointers, arrays and strigns */
 char *_memset(char *s, char b, unsigned int n);
+char *_memcpy(char *dest, char *src, unsigned int n);
