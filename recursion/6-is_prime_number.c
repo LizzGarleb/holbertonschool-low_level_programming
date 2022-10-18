@@ -3,10 +3,11 @@ int prime(int n, int i);
 /**
  * is_prime_number - find prime number
  * @n: given number
+ * Return: prime function
  */
 int is_prime_number(int n)
 {
-	return (prime(n, 2));
+	return (prime(2, n));
 }
 
 /**
