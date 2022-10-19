@@ -1,2 +1,19 @@
-hello world
-we are currently under construction
+# Recursion 
+
+## Q & A
+
+1. What is recursion? - Recursion is the technique of making a function call itself. This technique provides a way to break complicated problems down into a simple problems which are easier to solve.
+
+| File                    | Description                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| 0-puts_recursion.c      | Write a function that prints a string, followed by a new line.                              |
+| 1-print_rev_recursion.c | Write a function that prints a string in reverse.                                           |
+| 2-strlen_recursion.c    | Write a function that returns the length of a string.                                       |
+| 3-factorial.c           | Write a function that returns the factorial of a given number.                              |
+| 4-pow_recursion.c       | Write a function that returns the value of x raised to the power of y.                      |
+| 5-sqrt_recursion.c      | Write a function that returns the natural square root of a number.                          |
+| 6-is_prime_number.c     | Write a function that returns 1 if the input integer is a prime number, otherwise return 0. |
+
+Proyect from October 17, 2022 - October 18, 2022
+
+Lizbeth Garcia Lebron (Creator)
