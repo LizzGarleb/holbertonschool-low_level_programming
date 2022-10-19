@@ -49,6 +49,8 @@ This repository was created with educational purpose. The content of the directo
      Pointers: is a variable whose value is the address of another variable.
      Arrays: is a kind of data structure that can store a fixed-size sequential collection of elements of the same type.
      Strings: are arrays of character terminated by a null character.
+     
+ 6. Recursion = Allows any of it function to call itself multiple times in a program. Here, any function that happen to call itself again and again, unless the program satifies some specific condition is called a recursive function.
 
 Lizbeth Garcia Lebron (Creator)
 
@@ -59,3 +61,5 @@ Proyects from October 3, 2022 - October 5, 2022 (Variables if, else, while / Fun
 Proyects from October 6, 2022 - October 7, 2022 (Makefiles / More Functions Nestes Loops)
 
 Proyects from October 10, 2022 - October 12, 2022 (Pointers Arrays Strings (PROYECT 1 & 2)
+
+Proyects from October 13, 2022 - Ocotber 14, 2022 (Pointer, Arrays, Strings (PROYECT 3)
