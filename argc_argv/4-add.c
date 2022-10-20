@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 	{
 		a += atoi(argv[i]);
 
-		if (*argv[i] == 101)
+		if (a == 199)
 		{
 			printf("Error\n");
 			return (1);
