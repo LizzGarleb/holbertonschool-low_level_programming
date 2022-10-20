@@ -10,18 +10,18 @@ int main(int argc, char *argv[])
 {
 	int i, b, a;
 
-	i = atoi(argv[1]);
-	a = atoi(argv[2]);
-	b = a * i;
-
 	if (argc == 3)
 	{
+		i = atoi(argv[1]);
+		a = atoi(argv[2]);
+		b = a * i;
+
 		printf("%d\n", b);
 	}
 	else
 	{
 		printf("Error\n");
-		return (1);
 	}
+
 	return (0);
 }
