@@ -34,8 +34,8 @@ int main()
 
 	while (a != d - 1)
 	{
-		c += *a - 48;
-		t = c * m;
+		c = *a - 48;
+		t += c * m;
 		m = m * 10;
 		a--;
 	}
