@@ -51,6 +51,12 @@ This repository was created with educational purpose. The content of the directo
      Strings: are arrays of character terminated by a null character.
      
  6. Recursion = Allows any of it function to call itself multiple times in a program. Here, any function that happen to call itself again and again, unless the program satifies some specific condition is called a recursive function.
+ 
+ 7. Static Libraries = is a compiled object file containing all symbols required by the main program to operate as opposed to having to pull in separate entities.
+ 
+ 8. Argc & Argv
+     argc: refers to the number of arguments passed
+     argv: is a pointer array which points to each argument passed to the program
 
 Lizbeth Garcia Lebron (Creator)
 
