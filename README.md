@@ -68,6 +68,8 @@ Proyects from October 6, 2022 - October 7, 2022 (Makefiles / More Functions Nest
 
 Proyects from October 10, 2022 - October 12, 2022 (Pointers Arrays Strings (PROYECT 1 & 2)
 
-Proyects from October 13, 2022 - Ocotber 14, 2022 (Pointer, Arrays, Strings (PROYECT 3)
+Proyects from October 13, 2022 - October 14, 2022 (Pointer, Arrays, Strings (PROYECT 3)
 
-Proyects from October 17, 2022 - Ocotber 18, 2022 (Recursion)
+Proyects from October 17, 2022 - October 18, 2022 (Recursion)
+
+Proyects from October 19, 2022 - October 21, 2022 (Static LIbrary & ARGV/ ARGC)
