@@ -32,7 +32,7 @@
   
   This are some of the few, there are more common functions.
 
-PROYECT 1 (Pointers, arrays and strings)
+### PROYECT 1 (Pointers, arrays and strings)
 
 | File            | Description                                                                                                                            |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ PROYECT 1 (Pointers, arrays and strings)
 | 8-print_array.c | Write a function that prints n elements of an array of integers, followed by a new line.                                               |
 | 9-strcpy.c      | Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest. |
 
-PROYECT 2 (More pointers, arrays and strings)
+### PROYECT 2 (More pointers, arrays and strings)
 
 | File               | Description                                                                   |
 |--------------------|-------------------------------------------------------------------------------|
@@ -60,7 +60,7 @@ PROYECT 2 (More pointers, arrays and strings)
 | 6-cap_string.c     | Write a function that capitalizes all words of a string.                      |
 | 7-leet.c           | Write a function that encodes a string into 1337.                             |
 
-PROYECT 3 (Even more pointers, arrays and strings)
+### PROYECT 3 (Even more pointers, arrays and strings)
 
 | File                 | Description                                                                               |
 |----------------------|-------------------------------------------------------------------------------------------|
