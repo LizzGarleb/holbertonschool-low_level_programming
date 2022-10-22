@@ -12,10 +12,12 @@
 5. Scope of variables - is the lifetime of a variable in the program.
 
 6. What are pointers to pointers and how to use them? - A pointer to a pointer is a form of multiple indirections, or a chain of pointers. Normally a pointer contains the address of a variable. When we define a pointer to a pointer, the first pointer contains the address of the second pointer, which point to the location that contains the actial value.
+
 ![Example of a pointer to pointer](https://www.tutorialspoint.com/cprogramming/images/pointer_to_pointer.jpg)
 
 
 7. What are multidimensional arrays and how to use them? - The simplest form of multidimensiona array is the two-dimensional array. A two-dimensional array is, in essence, a list of one-dimensional array. 
+
 ![Example of multidimensiona arrays](https://user-images.githubusercontent.com/96942307/196568499-3ca82bf7-d56a-4890-b4d6-1876c3267f33.jpg)
 
 8. What are the most common C standard library functions to manipulate strins? - The most common function for string manipulation are: 
