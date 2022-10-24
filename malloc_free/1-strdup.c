@@ -30,7 +30,7 @@ char *_strdup(char *str)
 		str++;
 	}
 
-	temp = '\0';
+	*temp = '\0';
 
 	return (p);
 }
