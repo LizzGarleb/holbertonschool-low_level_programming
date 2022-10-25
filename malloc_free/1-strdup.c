@@ -22,16 +22,7 @@ char *_strdup(char *str)
 
 	p = malloc(sizeof(char) * lenght + 1);
 
-<<<<<<< HEAD
 	p = temp;
-=======
-	temp = p;
-
-	if (p)
-	{
-	}
-
->>>>>>> 9901c690e9b0d1ebc59c6bbd878f2673a87947cd
 	while (*str)
 	{
 		*temp = *str;
