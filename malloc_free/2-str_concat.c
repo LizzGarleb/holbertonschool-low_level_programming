@@ -9,18 +9,25 @@
  */
 char *str_concat(char *s1, char *s2)
 {
-	int str1_lenght = strlen(s1);
-	int str2_lenght = strlen(s2);
+	int str1_lenght, str2_lenght, i, j, size;
 	char *s;
-	int i, j, size;
 
 	if (str1_lenght == NULL)
 	{
 		return (NULL);
 	}
-	else if (str2_lenght == NULL)
+	else
+	{
+		str1_lenght = strlen(s1);
+	}
+
+	if (str2_lenght == NULL)
 	{
 		return (NULL);
+	}
+	else
+	{
+		str2_lenght = strlen(s2);
 	}
 
 	size = str1_lenght + str2_lenght;
