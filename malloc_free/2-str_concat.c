@@ -11,11 +11,21 @@ char *str_concat(char *s1, char *s2)
 {
 	int str1_lenght = strlen(s1);
 	int str2_lenght = strlen(s2);
-	int size = str1_lenght + str2_lenght;
 	char *s;
-	int i, j;
+	int i, j, size;
 
+	if (str1_lenght == NULL)
+	{
+		return (NULL);
+	}
+	else if (str2_lenght == NULL)
+	{
+		return (NULL);
+	}
+
+	size = str1_lenght + str2_lenght;
 	s = malloc(size + 1 * sizeof(char));
+
 	if (s == NULL)
 	{
 		return (NULL);
