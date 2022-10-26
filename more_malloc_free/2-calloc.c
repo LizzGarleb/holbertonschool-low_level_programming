@@ -8,7 +8,7 @@
  */
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
-	unsigned int i, *p;
+	unsigned int i, *n, *ch;
 
 	if (nmemb == 0)
 	{
@@ -18,15 +18,33 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	{
 		return (NULL);
 	}
-	p = malloc(nmemb * size);
-	if (p == NULL)
+	if (size == sizeof(char))
+	{
+		ch = malloc(nmemb * size);
+		if (ch == NULL)
+		{
+			return (NULL);
+		}
+		else
+		{
+			for (i = 0; i < nmemb; i++)
+			{
+				p[i] = 0;
+			}
+		}
+		return (ch);
+	}
+	n = malloc(nmemb * size);
+	if (n == NULL)
 	{
 		return (NULL);
 	}
-
-	for (i = 0; i < nmemb; i++)
+	else
 	{
-		p[i] = 0;
+		for (i = 0, i < nmemb; i++)
+		{
+			n[i] = '0';
+		}
 	}
-	return (p);
+	return (n);
 }
