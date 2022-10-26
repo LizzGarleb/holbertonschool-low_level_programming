@@ -29,7 +29,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 		{
 			for (i = 0; i < nmemb; i++)
 			{
-				p[i] = 0;
+				ch[i] = 0;
 			}
 		}
 		return (ch);
@@ -41,7 +41,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	}
 	else
 	{
-		for (i = 0, i < nmemb; i++)
+		for (i = 0; i < nmemb; i++)
 		{
 			n[i] = '0';
 		}
