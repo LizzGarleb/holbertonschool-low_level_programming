@@ -57,19 +57,24 @@ This repository was created with educational purpose. The content of the directo
  8. Argc & Argv
      argc: refers to the number of arguments passed
      argv: is a pointer array which points to each argument passed to the program
+     
+ 9.  Malloc, Free:
+     Malloc: separetes memory and return a pointer to it.
+     Free: free up the memory allocated by malloc at the end of the program.
+ 
+ 10. Preprocessor = is a macro processor that is used automatically by the C compiler to transform your program before actual compilation.
 
 Lizbeth Garcia Lebron (Creator)
 
-Proyects from September 26, 2022 - September 30, 2022 (Hello World)
-
-Proyects from October 3, 2022 - October 5, 2022 (Variables if, else, while / Functions Nested Loops)
-
-Proyects from October 6, 2022 - October 7, 2022 (Makefiles / More Functions Nestes Loops)
-
-Proyects from October 10, 2022 - October 12, 2022 (Pointers Arrays Strings (PROYECT 1 & 2)
-
-Proyects from October 13, 2022 - October 14, 2022 (Pointer, Arrays, Strings (PROYECT 3)
-
-Proyects from October 17, 2022 - October 18, 2022 (Recursion)
-
-Proyects from October 19, 2022 - October 21, 2022 (Static LIbrary & ARGV/ ARGC)
+### Learning Tracker
+| Dates                                   | File Name                                          |
+|-----------------------------------------|----------------------------------------------------|
+| September 26, 2022 - September 30, 2022 | Hello World                                        |
+| October 3, 2022 - October 5, 2022       | Variables if, else, while & Functions Nested Loops |
+| October 6, 2022 - October 7, 2022       | Makefiles & More function nested loops             |
+| October 10, 2022 - October 12, 2022     | Pointer, Array, Strings (Proyects 1 & 2)           |
+| October 13, 2022 - October 14, 2022     | Pointer, Array, String (Proyect 3)                 |
+| October 17, 2022 - October 18, 2022     | Recursion                                          |
+| October 19, 2022 - October 21, 2022     | Static Library & ARGV/ARGC                         |
+| October 24, 2022 - October 25, 2022     | Malloc & Free                                      |
+| October 26, 2022 - October 28, 2022     | More malloc, free & Preprocessor                   |
