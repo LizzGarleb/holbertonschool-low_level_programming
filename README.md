@@ -55,11 +55,15 @@ This repository was created with educational purpose. The content of the directo
  7. Static Libraries = is a compiled object file containing all symbols required by the main program to operate as opposed to having to pull in separate entities.
  
  8. Argc & Argv
+ 
      argc: refers to the number of arguments passed
+     
      argv: is a pointer array which points to each argument passed to the program
      
  9.  Malloc, Free:
+ 
      Malloc: separetes memory and return a pointer to it.
+     
      Free: free up the memory allocated by malloc at the end of the program.
  
  10. Preprocessor = is a macro processor that is used automatically by the C compiler to transform your program before actual compilation.
