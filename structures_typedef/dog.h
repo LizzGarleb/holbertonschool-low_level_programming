@@ -19,7 +19,7 @@ char *owner;
  * @age: dog age
  * @owner: dog owner
  */
-struct dog
+struct dog_T
 {
 char *name;
 float age;
