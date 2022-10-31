@@ -13,6 +13,19 @@ float age;
 char *owner;
 };
 
+/**
+ * struct dog_T - dog information
+ * @name: dog name
+ * @age: dog age
+ * @owner: dog owner
+ */
+struct dog_T
+{
+char *name;
+float age;
+char *owner;
+};
+
 void init_dog(struct dog *d, char *name, float age, char *owner);
 void print_dog(struct dog *d);
 #endif
