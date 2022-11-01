@@ -6,11 +6,11 @@
  */
 void print_name(char *name, void (*f)(char *))
 {
-	if (f == NULL)
+	if (f != NULL)
 	{
-	}
-	void (*p)(char *);
+		void (*p)(char *);
 
-	p = f;
-	p(name);
+		p = f;
+		p(name);
+	}
 }
