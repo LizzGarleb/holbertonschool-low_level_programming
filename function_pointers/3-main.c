@@ -6,7 +6,7 @@
  * @argc: count of argument
  * @argv: array of argument
  */
-int main(argc, *argv[])
+int main(int argc, char *argv[])
 {
 	int one, two;
 	char *ope;
