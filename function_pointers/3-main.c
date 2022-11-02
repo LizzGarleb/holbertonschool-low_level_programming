@@ -22,15 +22,15 @@ int main(int argc, char *argv[])
 
 	one = atoi(argv[1]);
 	two = atoi(argv[3]);
-	ope = argv[2][0];
+	ope = argv[2];
 
-	if ((ope != '*' && ope != '+' && ope != '-' && ope != '/') || argv[2][1] != '\0')
+	if ((argv[2][0] != '*' && argv[2][0] != '+' && argv[2][0] != '-' && argv[2][0] != '/') || argv[2][1] != '\0')
 	{
 		printf("Error\n");
 		exit(99);
 	}
 
-	if ((ope == '/' && two == 0) || (ope == '%' && two == 0))
+	if ((argv[2][0] == '/' && two == 0) || (argv[2][0] == '%' && two == 0))
 	{
 		printf("Error\n");
 		exit(100);
