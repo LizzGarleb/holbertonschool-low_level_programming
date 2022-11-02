@@ -9,7 +9,8 @@
  */
 int main(int argc, char *argv[])
 {
-	int one, two;
+	int one, two, a;
+	int (*p)(int, int);
 	char *ope;
 
 	if (argc != 4)
@@ -20,9 +21,9 @@ int main(int argc, char *argv[])
 	
 	one = atoi(argv[1]);
 	two = atoi(argv[3]);
-	ope = atoi(argv[2]);
+	ope = argv[2];
 
-	if (get_op_func(ope) == NULL)
+	if (get_op_func(argv[2]) == NULL)
 	{
 		printf("Error\n");
 		exit(99);
@@ -34,6 +35,9 @@ int main(int argc, char *argv[])
 		exit(100);
 	}
 
-	printf("%d\n", get_op_func(ope)(one, two);
+	p = get_op_func(ope);
+	a = p(one, two);
+
+	printf("%d\n", a);
 	return (0);
 }
