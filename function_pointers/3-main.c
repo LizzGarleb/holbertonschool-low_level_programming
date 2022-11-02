@@ -12,8 +12,7 @@ int main(int argc, char *argv[])
 {
 	int one, two, a;
 	int (*p)(int, int);
-	char ope;
-	char *sim;
+	char *ope;
 
 	if (argc != 4)
 	{
@@ -37,7 +36,7 @@ int main(int argc, char *argv[])
 		exit(100);
 	}
 
-	p = get_op_func(sim);
+	p = get_op_func(ope);
 	a = (*p)(one, two);
 
 	printf("%d\n", a);
