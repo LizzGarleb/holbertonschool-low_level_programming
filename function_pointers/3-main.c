@@ -31,13 +31,14 @@ int main(int argc, char *argv[])
 		exit(99);
 	}
 
-	if ((ope == '/' && two == 0) || (ope == '%' && two == 0))
+	sim = argv[2];
+
+	if ((*sim == '/' && two == 0) || (*sim == '%' && two == 0))
 	{
 		printf("Error\n");
 		exit(100);
 	}
 
-	sim = argv[2];
 	p = get_op_func(sim);
 	a = (*p)(one, two);
 
