@@ -1,4 +1,6 @@
 #include "3-calc.h"
+#include <stdio.h>
+#include <string.h>
 /**
  * get_op_func - function that selects the corrrect
  * function to persom the operation asked by the user.
@@ -15,5 +17,15 @@ int (*get_op_func(char *s))(int, int)
         {"%", op_mod},
         {NULL, NULL}
     };
-    int i;
+    int i = 0;
+
+	while (i)
+	{
+		if (strcmp(s, ops[i].op) == 0)
+		{
+			return (ops[i].f);
+		}
+		i++;
+	}
+	return (NULL);
 }
