@@ -8,42 +8,42 @@
 void print_all(const char * const format, ...)
 {
 	va_list a;
-	char *p, *s_let;
-	int i_num;
-	double dec_num;
+	int i = 0, j = 0;
+	char *s_let = NULL;
 
 	va_start(a, format);
-	while (*p)
+	while (format[j])
 	{
-		if (*p != '%')
-		{
-			_putchar(*p);
-			continue;
-		}
-		switch (*++p)
+		j++;
+	}
+	while (format[i])
+	{
+		switch (format[i])
 		{
 			case 'c':
 				printf("%c", va_arg(a, int));
 				break;
-			case 'd':
-				i_num = va_arg(a, int);
-				printf("%d", i_num);
+			case 'i':
+				printf("%d", va_arg(a, int));
 				break;
 			case 'f':
-				dec_num = va_arg(a, double);
-				printf("%f", dec_num);
+				printf("%f", va_arg(a, double));
 				break;
 			case 's':
-				s_let = va_arg(a , char *);
-				while (*s_let)
+				s_let = va_arg(a, char *);
+				if (s_let == NULL)
 				{
-					_putchar(*s_let);
-					s_let++;
+					printf("(nil)");
 					break;
 				}
+				printf("%s", s_let);
 				break;
 		}
-		p++;
+		if (format[i - 1] != '\0' && i != j - 1)
+		{
+		printf(", ");
+		}
+		i++;
 	}
 	printf("\n");
 	va_end(a);
