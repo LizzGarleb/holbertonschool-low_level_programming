@@ -68,6 +68,13 @@ This repository was created with educational purpose. The content of the directo
  
  10. Preprocessor = is a macro processor that is used automatically by the C compiler to transform your program before actual compilation.
 
+11. Structures & Typedef
+     Structure: are a way to group several related variables into one place. Each variable in the structure is known as a member of the structure.
+     
+     Typedef: Is a keywaord used to provide some meaningful name to the already existing varaible in the program.
+
+12. Variadic Functions = are functions which take a variable number of arguments.
+
 Lizbeth Garcia Lebron (Creator)
 
 ### Learning Tracker
@@ -82,3 +89,5 @@ Lizbeth Garcia Lebron (Creator)
 | October 19, 2022 - October 21, 2022     | Static Library & ARGV/ARGC                         |
 | October 24, 2022 - October 25, 2022     | Malloc & Free                                      |
 | October 26, 2022 - October 28, 2022     | More malloc, free & Preprocessor                   |
+| October 31, 2022 - November 1, 2022     | Structures & Typedef                               |
+| November 2, 2022 - November 5, 2022     | Variadic Functions                                 |
