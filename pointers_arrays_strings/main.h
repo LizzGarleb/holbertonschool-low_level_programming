@@ -33,3 +33,4 @@ void print_chessboard(char (*a)[8]);
 
 /*Advance Task*/
 int _atoi(char *s);
+void print_number(int n);
