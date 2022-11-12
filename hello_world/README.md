@@ -9,7 +9,9 @@
 All C file were compiled on `Ubuntu 20.04 LTS` using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 
 ## Description
+
 🌟 Mandatory Task 🌟
+
 | Files          | Description                                                                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------|
 | 0-preprocessor | Write a script that runs a C file through the preprocessor and save the result into another file.                      |
@@ -20,7 +22,10 @@ All C file were compiled on `Ubuntu 20.04 LTS` using `gcc`, using the options `-
 | 5-printf.c     | Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line. |
 | 6-size.c       | Write a C program that prints the size of various types on the computer it is compiled and run on.                     |
 
+<br>
+
 🌼 Advance Task 🌼
+
 | Files       | Description                                                                                                                                      |
 |-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 100-intel   | Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.                                        |
