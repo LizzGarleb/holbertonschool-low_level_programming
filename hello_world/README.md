@@ -1,4 +1,7 @@
-![Hello World](https://i0.wp.com/www.agilenative.com/wp-content/uploads/2017/01/001-Agile-Hello-World.png?resize=1024%2C634&ssl=1)
+<div class=HeaderSticker align="right">
+<img src"https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
+</div>
+
 # Hello World
 Basic command for C language
 
