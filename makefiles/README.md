@@ -5,11 +5,11 @@
 </div>
 </h4>
 
-## Technologys
+## It was tested using: 
 <ul>
 <li> :dizzy: OS: Ubuntu 20.04 LTS</li>
-<li> :dizzy: Version of `gcc`: 9.3.0</li>
-<li> :dizzy: Version of `make`: GNU Make 4.2.1</li>
+<li> :dizzy: Version of gcc: 9.3.0</li>
+<li> :dizzy: Version of make: GNU Make 4.2.1</li>
 </ul>
 
 ## Description
