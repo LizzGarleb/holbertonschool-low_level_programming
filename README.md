@@ -57,18 +57,3 @@ This repository was created with educational purpose. The content of the directo
      Typedef: Is a keywaord used to provide some meaningful name to the already existing varaible in the program.
 
 12. ![Variadic Functions](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/variadic_functions) = are functions which take a variable number of arguments.
-
-### Learning Tracker
-| Dates                                   | File Name                                          |
-|-----------------------------------------|----------------------------------------------------|
-| September 26, 2022 - September 30, 2022 | Hello World                                        |
-| October 3, 2022 - October 5, 2022       | Variables if, else, while & Functions Nested Loops |
-| October 6, 2022 - October 7, 2022       | Makefiles & More function nested loops             |
-| October 10, 2022 - October 12, 2022     | Pointer, Array, Strings (Proyects 1 & 2)           |
-| October 13, 2022 - October 14, 2022     | Pointer, Array, String (Proyect 3)                 |
-| October 17, 2022 - October 18, 2022     | Recursion                                          |
-| October 19, 2022 - October 21, 2022     | Static Library & ARGV/ARGC                         |
-| October 24, 2022 - October 25, 2022     | Malloc & Free                                      |
-| October 26, 2022 - October 28, 2022     | More malloc, free & Preprocessor                   |
-| October 31, 2022 - November 1, 2022     | Structures & Typedef                               |
-| November 2, 2022 - November 5, 2022     | Variadic Functions                                 |
