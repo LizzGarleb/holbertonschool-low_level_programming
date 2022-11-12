@@ -1,10 +1,18 @@
-![example of makefile](https://user-images.githubusercontent.com/96942307/194675252-78fda1d3-ae97-482f-9cf7-26e448afb094.png)
+<h4 align="center">
+<div class=HeadingSticker>
+<img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif"/>
+<h1 align="center"> Makefiles </h1>
+</div>
+</h4>
 
-# Makefiles
+## Technologys
+<ul>
+<li> :dizzy: OS: Ubuntu 20.04 LTS</li>
+<li> :dizzy: Version of `gcc`: 9.3.0</li>
+<li> :dizzy: Version of `make`: GNU Make 4.2.1</li>
+</ul>
 
-## Concept
-* Makefiles = sets a set of rules to determine which part of the program need to be recompile, and issues command to recompile them. Makefile is a way of automating software building procedure and other complex task with dependencies.
-
+:green_heart: Mandatory Task :green_heart:
 | File       | Description                        |
 |------------|------------------------------------|
 | 0-Makefile | Create your first Makefile         |
@@ -13,9 +21,7 @@
 | 3-Makefile | Create another Makefiles           |
 | 4-Makefile | Create another Makefiles           |
 
-## Advance
+<br>
+
+:heart: Advance Task :heart:
 * 100-Makefile
-
-Lizbeth Garcia Lebron (Creator)
-
-Proyects from the week October 6, 2022 - October 7, 2022
