@@ -1,9 +1,16 @@
-![Flow Chart](https://user-images.githubusercontent.com/96942307/194674600-4217fcdd-1a5a-41e4-bd02-f3b0e9382c27.png)
-# Functions nested loops
+<h4 align="center">
+<div class=HeaderSticker>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
+<h1 align="center"> Functions nested loops </h1>
+</h4>
 
-## Concepts
-* Functions = is a block of code which only runs when it is called.
-* Nested Loops = a loop statement inside another loop statement.
+## Requirements
+All files are compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+
+## Description
+
+:purple_heart: Mandatory Task :purple_heart:
 
 | File                   | Description                                                                                       |
 |------------------------|---------------------------------------------------------------------------------------------------|
@@ -17,9 +24,5 @@
 | 7-print_last_digit.c   | Write a function that prints the last digit of a number.                                          |
 | 8-24_hours.c           | Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59. |
 | 9-times_table.c        | Write a function that prints the 9 times table, starting with 0.                                  |
-| 10-add.c               | Write a function that adds two integers and returns the result.                                   |
-| 11-print_to_98.c       | Write a function that prints all natural numbers from n to 98, followed by a new line.            |
-
-Lizbeth Garcia Lebron (Creator)
-
-Proyects from the week October 3, 2022 - October 5, 2022.
+| 10-add.c               | Write a function that adds two integers and returns the result.|
+| 11-print_to_98.c       | Write a function that prints all natural numbers from n to 98, followed by a new line.
