@@ -1,6 +1,6 @@
 ![C banner image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Clanguage-1024x341.png)
 # Holberton School Low Level Programming
-This repository was created with educational purpose. The content of the directory is introduction to c language and getting familiar with the command. 
+This repository was created with educational purpose. The content of the directory is introduction to c language and getting familiar with the concepts. 
 
 ## Q & A
 
