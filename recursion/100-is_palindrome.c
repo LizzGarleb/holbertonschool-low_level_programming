@@ -1,19 +1,5 @@
 #include "main.h"
-/**
- * _strlen - Return the lenght of a string
- * @s: pointer to the string
- * Return: the lenght of the string.
- */
-int _strlen(char *s)
-{
-	int lenght;
-
-	for (lenght = 0; s[lenght] != '\0'; lenght++)
-		;
-
-	return (lenght);
-}
-
+#include <string.h>
 /**
  * is_palindrome - Write a function check is the given string
  * is palidrome
@@ -22,7 +8,7 @@ int _strlen(char *s)
  */
 int is_palindrome(char *s)
 {
-	int len = _strlen(s);
+	int len = strlen(s);
 
 	if (len == 0)
 		return (1);
