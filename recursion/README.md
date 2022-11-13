@@ -1,8 +1,16 @@
-# Recursion 
+<h4 align="center">
+<div class=HeaderSticker>
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
+</div>
+<h1> Recursion </h1>
+</h4>
 
-## Q & A
+## Requiremennt
+All c files are compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 
-1. What is recursion? - Recursion is the technique of making a function call itself. This technique provides a way to break complicated problems down into a simple problems which are easier to solve.
+## Description
+
+:snowman: Mandatory Task :snowman:
 
 | File                    | Description                                                                                 |
 |-------------------------|---------------------------------------------------------------------------------------------|
@@ -13,7 +21,3 @@
 | 4-pow_recursion.c       | Write a function that returns the value of x raised to the power of y.                      |
 | 5-sqrt_recursion.c      | Write a function that returns the natural square root of a number.                          |
 | 6-is_prime_number.c     | Write a function that returns 1 if the input integer is a prime number, otherwise return 0. |
-
-Proyect from October 17, 2022 - October 18, 2022
-
-Lizbeth Garcia Lebron (Creator)
