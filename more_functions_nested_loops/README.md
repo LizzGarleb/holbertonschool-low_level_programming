@@ -1,9 +1,16 @@
 <h4 align="center">
 <div class=HeasderSticker>
 <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif"/>
+  <h1 align="center"> More function nested loops </h1>
 </div>
 </h4>
-# More Functions Nested Loops
+
+## Requirements
+All file were compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89` 
+
+## Description
+
+❤️‍🔥 Mandatory Task ❤️‍🔥
 
 | File                   | Description                                                                                                                                                                                                                                                 |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,10 +25,11 @@
 | 8-print_square.c       | Write a function that prints a square, followed by a new line.                                                                                                                                                                                              |
 | 9-fizz_buzz.c          | Write a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz. |
 | 10-print_triangle.c    | Write a function that prints a triangle, followed by a new line.                                                                                                                                                                                            |
+<br>
 
-## Task Advance 
-100-prime_factor.c Print the prime largest prime factor of a number.
+🤎 Advance Task 🤎
 
-Lizbeth Garcia Lebron (Creator)
-
-Proyects from the week October 6, 2022 - October 7, 2022 
+| Files              | Description                                                                                                        |
+|--------------------|--------------------------------------------------------------------------------------------------------------------|
+| 100-prime_factor.c | Write a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line. |
+| 101-print_number.c | Write a function that prints an integer.                                                                           |
