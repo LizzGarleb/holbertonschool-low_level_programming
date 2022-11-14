@@ -2,7 +2,7 @@
 <div class=HeaderSticker>
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
 </div>
-<h1> Recursion </h1>
+<h1 align="center"> Recursion </h1>
 </h4>
 
 ## Requiremennt
