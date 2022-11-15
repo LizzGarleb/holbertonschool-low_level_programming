@@ -1,6 +1,8 @@
 #include "lists.h"
 /**
- *
+ * free_listint2 - functions that frees a list
+ * @head: points to the start
+ * Return: return void
  */
 void free_listint2(listint_t **head)
 {
@@ -8,7 +10,7 @@ void free_listint2(listint_t **head)
 
 	if (head)
 	{
-		while(*head != NULL)
+		while (*head != NULL)
 		{
 			tmp = *head;
 			*head = (*head)->next;
