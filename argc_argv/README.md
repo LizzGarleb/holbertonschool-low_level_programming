@@ -1,5 +1,5 @@
 <h4 align="center">
-<div classHeaderSticker>
+<div class=HeaderSticker>
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 <h1 align="center"> ARGC & ARGV </h1>
