@@ -49,6 +49,11 @@ int main(int argc, char *argv[])
 	return (0);
 }
 
+/**
+ * validating_close - function that validates the close
+ * @fd1: validates the source code close
+ * @fd2: validates the copy code close
+ */
 void validating_close(int fd1, int fd2)
 {
 	if (close(fd1) == -1)
