@@ -45,6 +45,12 @@ int main(int argc, char *argv[])
 			exit(99);
 		}
 	}
+	validating_close(fd1, fd2);
+	return (0);
+}
+
+int validating_close(int from, int to)
+{
 	if (close(fd1) == -1)
 	{
 		dprintf(STDERR_FILENO, "Error: Can't close fd %i\n", fd1);
@@ -55,5 +61,4 @@ int main(int argc, char *argv[])
 		dprintf(STDERR_FILENO, "Error: Can't close fd %i\n", fd2);
 		exit(100);
 	}
-	return (0);
 }
