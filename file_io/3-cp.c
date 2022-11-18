@@ -49,7 +49,7 @@ int main(int argc, char *argv[])
 	return (0);
 }
 
-int validating_close(int fd1, int fd2)
+void validating_close(int fd1, int fd2)
 {
 	if (close(fd1) == -1)
 	{
