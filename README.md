@@ -57,3 +57,9 @@ This repository was created with educational purpose. The content of the directo
      Typedef: Is a keywaord used to provide some meaningful name to the already existing varaible in the program.
 
 12. ![Variadic Functions](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/variadic_functions) = are functions which take a variable number of arguments.
+
+13. Singly Linked Lists
+14. Bit Manipulation
+15. File I/O
+16. Doubly Linked Lists
+17. Hash Tables
