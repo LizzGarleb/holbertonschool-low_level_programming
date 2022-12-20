@@ -1,5 +1,5 @@
 <h4 align="center">
-<div class=HeaderSticker>
+<div class="HeaderSticker">
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif"/>
 </div>
 <h1 align="center"> Hash Tables </h1>
