@@ -1,3 +1,16 @@
+<h4 align="center">
+<div classHeaderSticker>
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
+</div>
+<h1 align="center"> Function Pointers </h1>
+</h4>
+
+## Requiremets 
+All files were compiled on Ubuntu 20.04 LTS using, `gcc`, using the option `-Wall -Werror -Wextra -pedantic -std=gnu89`
+
+## Description
+:sunflower: Mandatory Task :sunflower:
+
 | File       | Description                                                                                                |
 |------------|------------------------------------------------------------------------------------------------------------|
 | 0-linear.c | Write a function that searches for a value in an array of integers using the Linear search algorithm       |
