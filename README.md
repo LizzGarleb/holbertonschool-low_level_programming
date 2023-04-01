@@ -1,65 +1,48 @@
 ![C banner image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Clanguage-1024x341.png)
 # Holberton School Low Level Programming
-This repository was created with educational purpose. The content of the directory is introduction to c language and getting familiar with the concepts. 
+Welcome to the Holberton School Low Level Programming repository! This repository contains code examples and projects related to low-level programming. 
 
-### Table of Content 
+## About Holberton School
+Holberton School is a project-based alternative to college for the next generation of software engineers. The curriculum focuses on full-stack software engineering and covers low-level programming, higher-level programming, DevOps, and more.
 
-1. ![Hello_world](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/hello_world) = introduction to C language and simple proyects.
+## About Low Level Programming
+Low-level programming involves writing code that is closer to machine language than higher-level programming languages like Python or JavaScript. This includes using assembly language and C programming language to write code that directly interfaces with hardware.
 
-2. ![Variables, if, else, while](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/variables_if_else_while)
+## Repository Contents
+This repository contains various projects related to low-level programming. The content of this repository are organized by directories, each containing a specific project. Here is an overview of the directories:
 
-     if: is a condition statement that, if proved true, perform a funcion or displays information.
-     
-     else: is an alternative statement that is executed if the result of a previous test conditions evaluates to false.
-     
-     while: while loop is used to repeat a section of code an unknown number of times until a specific conidition is met.
-     
-     variable: Location where we store data.
+1. Hello_world = Simple code example demonstrating how to print text to the console usign the printf() function.
 
-3. ![Function, nested loops](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/functions_nested_loops)
+2. Variables, if, else, while = Code examples demonstrating how to use variables and conditional statements in C programming.
 
-    function: is a block of code which only runs when it is called.
-    
-    nested loops: It allows the looping of statements inside another loops.
+3. Function, nested loops = Code examples demonstrating how to use variables and conditional statement in C programming.
 
-4. ![Makefiles](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/makefiles) = sets a set of rules to determine which part of the program need to be recompile, and issues command to recompile them. Makefiles is a way of automating software building procedure and other complex task with dependencies. 
+4. Makefiles = sets a set of rules to determine which part of the program need to be recompile, and issues command to recompile them. Makefiles is a way of automating software building procedure and other complex task with dependencies. 
 
-5. ![Pointers, Arrays & Strings](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/pointers_arrays_strings)
+5. Pointers, Arrays & Strings = Code examples demonstrating how to use pointers, arrays, and strings in C programming. 
 
-     Pointers: is a variable whose value is the address of another variable.
-     
-     Arrays: is a kind of data structure that can store a fixed-size sequential collection of elements of the same type.
-     
-     Strings: are arrays of character terminated by a null character.
-     
- 6. ![Recursion](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/recursion) = Allows any of it function to call itself multiple times in a program. Here, any function that happen to call itself again and again, unless the program satifies some specific condition is called a recursive function.
- 
- 7. ![Static Libraries](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/static_libraries) = is a compiled object file containing all symbols required by the main program to operate as opposed to having to pull in separate entities.
- 
- 8. ![Argc & Argv](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/argc_argv)
- 
-     argc: refers to the number of arguments passed
-     
-     argv: is a pointer array which points to each argument passed to the program
-     
- 9.  ![Malloc, Free](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/malloc_free)
- 
-     Malloc: separetes memory and return a pointer to it.
-     
-     Free: free up the memory allocated by malloc at the end of the program.
- 
- 10. ![Preprocessor](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/preprocessor) = is a macro processor that is used automatically by the C compiler to transform your program before actual compilation.
+6. Recursion = Code examples demonstrating how to use recursion on C programming.
 
-11. ![Structures & Typedef](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/structures_typedef)
+7. Static Libraries = Code example demonstrating how to create and use static libraries in C programming.
 
-     Structure: are a way to group several related variables into one place. Each variable in the structure is known as a member of the structure.
-     
-     Typedef: Is a keywaord used to provide some meaningful name to the already existing varaible in the program.
+8. Argc & Argv = Code examples demonstrating how to use command line arguments in C programming.
 
-12. ![Variadic Functions](https://github.com/Lizz3108/holbertonschool-low_level_programming/tree/master/variadic_functions) = are functions which take a variable number of arguments.
+9. Malloc, Free = Code examples demonstrating how to use dynamic memory allocation in C programming.
 
-13. Singly Linked Lists
-14. Bit Manipulation
-15. File I/O
-16. Doubly Linked Lists
-17. Hash Tables
+10. Preprocessor = Code examples demonstrating how to use preprocessor in C programming.
+
+11. Structures & Typedef = Code examples demonstrating how to use structures and typedefs in C programming. 
+
+12. Variadic Functions = Code example demonstrating how to use variadic functions in C programming.
+
+13. Singly Linked Lists = Code examples implementing singly linked lists data structures and operations on them.
+
+14. Bit Manipulation = Code examples of bit manipulation, bitwise operator and binary representation in low-level programming using the C language.
+
+15. File I/O = Code examples related to file input/output operations in C programming.
+
+16. Doubly Linked Lists = Code examples of Doubly linked lists in C programming.
+
+17. Hash Tables = Code examples of hash tables in C programming.
+
+Thanks you for visiting the Holberton School Low Level Programming repository! Hope that the code example demonstrates in this repository will be helpful in your software engineering journey.
