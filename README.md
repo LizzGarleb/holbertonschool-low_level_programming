@@ -46,3 +46,6 @@ This repository contains various projects related to low-level programming. The 
 17. Hash Tables = Code examples of hash tables in C programming.
 
 Thanks you for visiting the Holberton School Low Level Programming repository! Hope that the code example demonstrates in this repository will be helpful in your software engineering journey.
+
+## About Me
+Hi, Im Lizbeth Garcia the developer behind this project. To connect with me professionaly and explore more about my work, I invite you to visit my LinkedIn profile ([Lizbeth Garcia](https://www.linkedin.com/in/lizbeth-garcia-53657a22a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0ioxuQ4BQy2Z%2Fclq%2BYgMvQ%3D%3D) ). There, you can find articles, and professional experiences. For more casual discussion and tech insight, feel free to follow me on Twitter ([@GarlebLizz](https://twitter.com/GarlebLizz)) or Instagram ([@CodewithLizz](https://www.instagram.com/codewithlizz/)). I look foward to connecting with you!
